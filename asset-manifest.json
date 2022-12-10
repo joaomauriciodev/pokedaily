@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokedaily/static/css/main.996cda1d.css",
+    "main.js": "/pokedaily/static/js/main.44386499.js",
+    "static/media/pokeball.png": "/pokedaily/static/media/pokeball.0bc76669e4ea6bee516c.png",
+    "index.html": "/pokedaily/index.html",
+    "main.996cda1d.css.map": "/pokedaily/static/css/main.996cda1d.css.map",
+    "main.44386499.js.map": "/pokedaily/static/js/main.44386499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996cda1d.css",
+    "static/js/main.44386499.js"
+  ]
+}
